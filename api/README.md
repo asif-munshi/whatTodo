@@ -17,7 +17,7 @@ yarn start
 ### Postman Request
 POST:
 ```
-localhost:5000/api/post
+http://localhost:5000/api/post
 ```
 POST:
 ```
