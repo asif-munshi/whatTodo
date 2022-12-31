@@ -14,3 +14,20 @@ or:
 ```
 yarn start
 ```
+### Postman Request
+POST:
+```
+localhost:5000/api/post
+```
+POST:
+```
+http://localhost:5000/api/post
+```
+GET ALL:
+```
+http://localhost:5000/api/getAll
+```
+GET ONE BY ID:
+```
+http://localhost:5000/api/getOne/_id
+```
