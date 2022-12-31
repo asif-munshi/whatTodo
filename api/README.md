@@ -2,3 +2,7 @@
 ```
 npm install
 ```
+or
+```
+yarn
+```
