@@ -1,8 +1,16 @@
-### Project setup
+### Project Setup
 ```
 npm install
 ```
-or
+or:
 ```
 yarn
+```
+### Project Start
+```
+npm start
+```
+or:
+```
+yarn start
 ```
