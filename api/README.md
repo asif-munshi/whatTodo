@@ -19,10 +19,6 @@ POST:
 ```
 http://localhost:5000/api/post
 ```
-POST:
-```
-http://localhost:5000/api/post
-```
 GET ALL:
 ```
 http://localhost:5000/api/getAll
